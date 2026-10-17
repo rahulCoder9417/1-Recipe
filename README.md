@@ -8,7 +8,7 @@ A React-based recipe finder app that uses the [Spoonacular API](https://spoonacu
 
 To use this app, you **must provide your own Spoonacular API key**.
 
-### 🔧 Setup
+### 🛸 Setup
 
 1. Get a free API key from [Spoonacular Developer Portal](https://spoonacular.com/food-api/console#Dashboard).
 2. Create a `.env` file in the root of the project:
@@ -20,7 +20,8 @@ To use this app, you **must provide your own Spoonacular API key**.
     npm run dev
     ```
 
-> **Note:** Your API key will be visible in the browser — don’t use this for production without a backend proxy.
+> **Note:** Your API key will be visible in the browser — don't use this for production without a backend proxy.
 
 ---
 
+<!-- test -->
